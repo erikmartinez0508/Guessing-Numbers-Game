@@ -1,7 +1,7 @@
 import random
 x=random.randint(1, 100)
 #x=45
-print("I'm thinking of a number between 1 and 100. Can you guess what it is?")
+print("Firstly, I'm thinking of a number between 1 and 100. Can you guess what it is?")
 direction = ""
 guess = 0
 attempts = 0
